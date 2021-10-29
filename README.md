@@ -10,7 +10,7 @@ Run `yarn install` ou `npm install`
 
 Run `yarn dev` ou `npm dev`
 
-##Web:
+## Web:
 Run `yarn install` ou `npm install`
 
 Run `yarn start` ou `npm start`
